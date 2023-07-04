@@ -1,1 +1,5 @@
 # Anomalies-Detection-in-Energy-Demand
+
+La detección de anomalías es imprescindible para llevar a cabo una buena gestión en el uso y distribución de la energía, ya que busca identificar eventos inusuales e inesperados en el consumo de electricidad, con el propósito de actuar con rapidez para mitigar los impactos. Con el avance de la tecnología han surgido nuevas formas de modelar y pronosticar el comportamiento de distintas variables a través del tiempo, entrando en juego los modelos de machine learning, siendo particularmente relevantes los modelos Long Short Term Memory (LSTM) por su capacidad para predecir variables aprendiendo a partir de sus patrones temporales.
+
+El principal objetivo de este trabajo consiste en analizar la implementación de una Red Neuronal LSTM para la predicción y posterior detección de anomalías, con el apoyo del método Nonparametric Dynamic Thresholding, en la Demanda Energética del Mercado Eléctrico Mayorista (MEM) de todo el Sistema Argentino de Interconexión (SADI).
